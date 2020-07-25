@@ -4,13 +4,11 @@ import java.util.Scanner;
 
 public class Buscador {
 
-
+   //Hola
 	
 	public static void main(String[] args) {
 		
 		StringBuilder titulos = new StringBuilder("");
-		
-		
 		
 		//String titulos = "La biblia de Java, Python básico, Angular en un día,programación Web con Java EE, Spring Boot, Fundamentos de Python, Java y Spring, la biblia de php";
 
